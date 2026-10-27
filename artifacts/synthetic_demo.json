@@ -1,0 +1,54 @@
+{
+  "purpose": "Small synthetic runtime demonstration, not historical-study replication",
+  "seed": 20261026,
+  "device": "cpu",
+  "training_steps": 80,
+  "training_transitions": 384,
+  "heldout_episode_transitions": 96,
+  "split_note": "Distinct episode seeds; shallow states may overlap, so no unseen-state claim",
+  "initial_heldout_successor_latent_mse": 0.03366449847817421,
+  "final_heldout_successor_latent_mse": 0.38034674525260925,
+  "first_training_loss": 2.0922083854675293,
+  "last_training_loss": 0.5681375861167908,
+  "latent_metric_note": "Target encoder changes during training; MSE is not search utility or a fixed-target benchmark",
+  "search": {
+    "solved": true,
+    "verified": true,
+    "actions": [
+      "F'",
+      "R'",
+      "U'"
+    ],
+    "action_indices": [
+      9,
+      7,
+      1
+    ],
+    "solution_length": 3,
+    "optimal": true,
+    "exact_distance": 3,
+    "stop_reason": "solved",
+    "budget_termination": null,
+    "expanded_nodes": 14,
+    "generated_successors": 156,
+    "environment_calls": 159,
+    "model_forward_calls": 0,
+    "scorer_calls": 0,
+    "wall_seconds": 0.00017504201969131827,
+    "time_budget_overrun": false,
+    "time_budget_overrun_seconds": 0.0,
+    "max_nodes": 5000,
+    "max_seconds": null,
+    "depth_reached": 3,
+    "peak_frontier": 126,
+    "peak_visited": 140,
+    "memory_estimate_bytes": 33376,
+    "memory_measurement": "estimated search bookkeeping; excludes model and process RSS"
+  },
+  "search_note": "Separate exact BFS, without learned scores; replay proves this returned path only",
+  "versions": {
+    "python": "3.12.7",
+    "numpy": "1.26.4",
+    "torch": "2.7.1"
+  }
+}

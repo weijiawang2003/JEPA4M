@@ -1,0 +1,184 @@
+{
+  "source": "JEPA4M reviewed publication edition dated 2026-10-10",
+  "export_date": "2026-10-26",
+  "scope": "Compact source subset; not full historical archive or authorship proof",
+  "files": [
+    {
+      "source_relative_path": "src/jepa4math/__init__.py",
+      "published_path": "src/jepa4math/__init__.py",
+      "source_sha256": "41a68d5bd1fae57611bd9eb750181651154cff2cde7617bc4aee787d77ad0354",
+      "published_sha256": "41a68d5bd1fae57611bd9eb750181651154cff2cde7617bc4aee787d77ad0354",
+      "changes": []
+    },
+    {
+      "source_relative_path": "src/jepa4math/cube.py",
+      "published_path": "src/jepa4math/cube.py",
+      "source_sha256": "614013a161297fb5548a13a569b3a39a57f55ce5eb2088a699ff6295363d6488",
+      "published_sha256": "614013a161297fb5548a13a569b3a39a57f55ce5eb2088a699ff6295363d6488",
+      "changes": []
+    },
+    {
+      "source_relative_path": "src/jepa4math/data.py",
+      "published_path": "src/jepa4math/data.py",
+      "source_sha256": "e6837c512dc230ba0d737ab097cd052932f5aa330142c7cdb16734465204b81a",
+      "published_sha256": "e6837c512dc230ba0d737ab097cd052932f5aa330142c7cdb16734465204b81a",
+      "changes": []
+    },
+    {
+      "source_relative_path": "src/jepa4math/io.py",
+      "published_path": "src/jepa4math/io.py",
+      "source_sha256": "82620a82ad7f7f20224f5653e11cda9e91ce69ba6707cead1ac0491e13a309dc",
+      "published_sha256": "82620a82ad7f7f20224f5653e11cda9e91ce69ba6707cead1ac0491e13a309dc",
+      "changes": []
+    },
+    {
+      "source_relative_path": "src/jepa4math/models.py",
+      "published_path": "src/jepa4math/models.py",
+      "source_sha256": "f7e182ef5a82ff511e208ed87e3720e0be34dd97fd52354f5c8a3e41cba85a6c",
+      "published_sha256": "f7e182ef5a82ff511e208ed87e3720e0be34dd97fd52354f5c8a3e41cba85a6c",
+      "changes": []
+    },
+    {
+      "source_relative_path": "src/jepa4math/search.py",
+      "published_path": "src/jepa4math/search.py",
+      "source_sha256": "58d1aea4d982f1e15e8171fc283132e4e91ce63dd6589174ac059a3a73935ca5",
+      "published_sha256": "58d1aea4d982f1e15e8171fc283132e4e91ce63dd6589174ac059a3a73935ca5",
+      "changes": []
+    },
+    {
+      "source_relative_path": "src/jepa4math/rewriting.py",
+      "published_path": "src/jepa4math/rewriting.py",
+      "source_sha256": "99a4bbff044d8e79581a80137ba0c22be02403f96a06e4d587f0d7df1fd7ec3d",
+      "published_sha256": "99a4bbff044d8e79581a80137ba0c22be02403f96a06e4d587f0d7df1fd7ec3d",
+      "changes": []
+    },
+    {
+      "source_relative_path": "tests/test_cube.py",
+      "published_path": "tests/test_cube.py",
+      "source_sha256": "8e00998bb39b3da81300e728afba9c77cceafc83663cb6c99df0e947bc5cd77f",
+      "published_sha256": "8e00998bb39b3da81300e728afba9c77cceafc83663cb6c99df0e947bc5cd77f",
+      "changes": []
+    },
+    {
+      "source_relative_path": "tests/test_search.py",
+      "published_path": "tests/test_search.py",
+      "source_sha256": "958bce5af435818989e191c90cdf19e3722cd4a1b8bc925b7a733a7065bbfe17",
+      "published_sha256": "958bce5af435818989e191c90cdf19e3722cd4a1b8bc925b7a733a7065bbfe17",
+      "changes": []
+    },
+    {
+      "source_relative_path": "tests/test_learning.py",
+      "published_path": "tests/test_learning.py",
+      "source_sha256": "fc310affbc6bcce1a3e4f15a7adb9926a14e52d3f2e84fa3cbd201c250eda0ff",
+      "published_sha256": "fc310affbc6bcce1a3e4f15a7adb9926a14e52d3f2e84fa3cbd201c250eda0ff",
+      "changes": []
+    },
+    {
+      "source_relative_path": "tests/test_rewriting.py",
+      "published_path": "tests/test_rewriting.py",
+      "source_sha256": "fe484d6551110cc7d50853cc5635f7fededa4e72316de4a23288150bc5676f26",
+      "published_sha256": "fe484d6551110cc7d50853cc5635f7fededa4e72316de4a23288150bc5676f26",
+      "changes": []
+    },
+    {
+      "source_relative_path": "reports/bellman_allocation/RESULTS.md",
+      "published_path": "reports/bellman_allocation/RESULTS.md",
+      "source_sha256": "90993c3e5d9c34aa66e45891699d02b9e8e4df2a583f0017585c126fcc9f8394",
+      "published_sha256": "56445b6a155ad01c59b3598e78e85619790830e1469f6c38cba408a416a21f04",
+      "changes": [
+        "Removed host-specific paths and de-linked omitted historical artifacts; numerical report text retained."
+      ]
+    },
+    {
+      "source_relative_path": "reports/cube3_production_cost_recovery/RESULTS.md",
+      "published_path": "reports/cube3_production_cost_recovery/RESULTS.md",
+      "source_sha256": "8a47525d186777ce3ad958d8913c28236d626b3d612c4a8690862556be3fc50a",
+      "published_sha256": "54b348ba4d70626068df22eae5bc8650210ab219edd18f57998edf548ae9ae0d",
+      "changes": [
+        "Removed host-specific paths and de-linked omitted historical artifacts; numerical report text retained."
+      ]
+    },
+    {
+      "source_relative_path": "reports/cube3_mlp_mechanism/RESULTS.md",
+      "published_path": "reports/cube3_mlp_mechanism/RESULTS.md",
+      "source_sha256": "f573e51d488df484b00be7896d4a7133d27592a9f4694a5ca0fec74a5678c695",
+      "published_sha256": "7b2d554015d69b41317f4d5a193b351572a9183179aaa92008652581d414cbd8",
+      "changes": [
+        "Removed host-specific paths and de-linked omitted historical artifacts; numerical report text retained."
+      ]
+    },
+    {
+      "source_relative_path": "reports/cube3_sigreg_factorial/RESULTS.md",
+      "published_path": "reports/cube3_sigreg_factorial/RESULTS.md",
+      "source_sha256": "58a9c0e24caa0d8c46ae2e2d97d8387d17cd056a5e51b27579f6b28f64c97e14",
+      "published_sha256": "8910c47b066426a31798f5ced423d8370a8b75ba0d4e581144c8d87e95f70bc7",
+      "changes": [
+        "Removed host-specific paths and de-linked omitted historical artifacts; numerical report text retained."
+      ]
+    },
+    {
+      "source_relative_path": "reports/cube4_hard_utility/RESULTS.md",
+      "published_path": "reports/cube4_hard_utility/RESULTS.md",
+      "source_sha256": "0ef3e225265eb15174209b4a83a7665b9f8a0cad1ce992ad0447f35d6f0988e7",
+      "published_sha256": "251eae9db365e7dcd5a5e54e64c34737e7080c3c8e82ae9eacd6676126a615ef",
+      "changes": [
+        "Removed host-specific paths and de-linked omitted historical artifacts; numerical report text retained."
+      ]
+    },
+    {
+      "source_relative_path": "reports/cube4_joint_utility/RESULTS.md",
+      "published_path": "reports/cube4_joint_utility/RESULTS.md",
+      "source_sha256": "a5c3e86ca8a449abb8bb2bcbb7b6453d1f5eb97ab841e33afb336f0a90e39224",
+      "published_sha256": "06c1f0a56475cc96a97f1a10b7632d04693f49116d5afc6f7ff53300099decfc",
+      "changes": [
+        "Removed host-specific paths and de-linked omitted historical artifacts; numerical report text retained."
+      ]
+    },
+    {
+      "source_relative_path": "docs/JEPA_OBJECTIVE_AUDIT.md",
+      "published_path": "docs/JEPA_OBJECTIVE_AUDIT.md",
+      "source_sha256": "64217bf5d9d1f188e22c312f0c1cc3ff04c8f863dcd78c29b701f7505699214a",
+      "published_sha256": "64217bf5d9d1f188e22c312f0c1cc3ff04c8f863dcd78c29b701f7505699214a",
+      "changes": []
+    },
+    {
+      "source_relative_path": "docs/REFERENCE_AUDIT.md",
+      "published_path": "docs/REFERENCE_AUDIT.md",
+      "source_sha256": "e36d24b94337d92845c1bf454b06f4a8826bca0bed41d5a985b54fcb2960a6ee",
+      "published_sha256": "d8792d27901c0c85d94d05181e2552c54f37bb9a9665ec91486f844c77e9af42",
+      "changes": [
+        "Removed host-specific paths and de-linked omitted historical artifacts; numerical report text retained."
+      ]
+    },
+    {
+      "source_relative_path": "docs/OFFICIAL_ADAPTER.md",
+      "published_path": "docs/OFFICIAL_ADAPTER.md",
+      "source_sha256": "669f814a3d4db92bca5ed583b52123257aed59313029e706bc3d920a69d7272b",
+      "published_sha256": "669f814a3d4db92bca5ed583b52123257aed59313029e706bc3d920a69d7272b",
+      "changes": []
+    },
+    {
+      "source_relative_path": "THIRD_PARTY_NOTICES.md",
+      "published_path": "THIRD_PARTY_NOTICES.md",
+      "source_sha256": "0a7fd8d421f12737b0720e2e06e2d58aa80f6725d8fb0ab5d7cc5a0844865a17",
+      "published_sha256": "27f253fc0c8ac1816615307473452978327da7f7ba1769afa2b50a01c0a99971",
+      "changes": [
+        "Removed host-specific paths and de-linked omitted historical artifacts; numerical report text retained."
+      ]
+    },
+    {
+      "source_relative_path": "src/jepa4math/rewrite_data.py",
+      "published_path": "src/jepa4math/rewrite_data.py",
+      "source_sha256": "f40f4eedb29ad114ad937fefdffd638f315f2df4d805b2d1599b1a7c88e65095",
+      "published_sha256": "f40f4eedb29ad114ad937fefdffd638f315f2df4d805b2d1599b1a7c88e65095",
+      "changes": []
+    },
+    {
+      "source_relative_path": "scripts/rewrite_benchmark.py",
+      "published_path": "scripts/rewrite_benchmark.py",
+      "source_sha256": "ddd4ff46f8e223e6d95640cf3416021b1eb727f7afac032496a5a3b6c7236367",
+      "published_sha256": "ddd4ff46f8e223e6d95640cf3416021b1eb727f7afac032496a5a3b6c7236367",
+      "changes": []
+    }
+  ]
+}

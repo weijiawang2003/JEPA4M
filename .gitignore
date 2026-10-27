@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.egg-info/
+build/
+dist/
+data/
+checkpoints/
+*.pt
+*.pth
+artifacts/local_*.json
+.DS_Store
+._*
